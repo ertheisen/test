@@ -253,5 +253,6 @@ Singularity container containing following apps for ChIP-seq and CUT&RUN process
 	python /appscripts/cutnrun.py
 
 %apprun cutnrun_hardtrim
-	python /appscripts/cutnrun_hardtrim.py	
+	python /appscripts/cutnrun_hardtrim.py
+	
 
